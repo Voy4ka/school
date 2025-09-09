@@ -34,6 +34,14 @@
 #
 # turtle.mainloop()
 
+
+
+
+
+HOMEWORK 
+
+
+
 import turtle
 
 turtle.speed(3)
